@@ -1,3 +1,3 @@
 ### Hi there 👋
-I like to train transformers for variety of tasks 🤔
+I like to train models and build stuff 🤔
 
